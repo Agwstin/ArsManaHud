@@ -9,4 +9,4 @@ Ars NumericHUD is a client-side Ars addon that shows your mana with numbers, and
 [mr-shield]: https://img.shields.io/modrinth/dt/qIZhQXKM?style=for-the-badge&logo=modrinth&label=Modrinth&labelColor=black&color=%2300AF5C
 [mr-link]: https://modrinth.com/mod/ars-numerichud
 [cf-shield]: https://img.shields.io/curseforge/dt/1221985?style=for-the-badge&logo=curseforge&label=CurseForge&labelColor=black&color=%23F16436
-[cf-link]: https://legacy.curseforge.com/minecraft/mc-mods/ars-numerichud
+[cf-link]: https://curseforge.com/minecraft/mc-mods/ars-numerichud

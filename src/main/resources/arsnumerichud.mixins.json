@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.wfphantom.arsnumerichud.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["GlyphCostMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

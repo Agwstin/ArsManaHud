@@ -1,4 +1,4 @@
-package com.wfphantom.arsnumerichud.mixins;
+package com.wfphantom.arsnumerichud.mixin;
 
 import com.hollingsworth.arsnouveau.ArsNouveau;
 import com.hollingsworth.arsnouveau.api.item.ICasterTool;
