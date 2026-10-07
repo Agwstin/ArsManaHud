@@ -1,4 +1,4 @@
-package com.wfphantom.arsnumerichud.mixin;
+package io.github.agwstin.arsmanahud.mixin;
 
 import com.hollingsworth.arsnouveau.ArsNouveau;
 import com.hollingsworth.arsnouveau.api.item.ICasterTool;

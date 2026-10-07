@@ -1,4 +1,4 @@
-package com.wfphantom.arsnumerichud;
+package io.github.agwstin.arsmanahud;
 
 import com.hollingsworth.arsnouveau.api.ArsNouveauAPI;
 import net.neoforged.bus.api.SubscribeEvent;
@@ -7,11 +7,11 @@ import net.neoforged.fml.common.Mod;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.neoforge.client.event.ScreenEvent;
 
-@Mod(value = ArsNumericHUD.MODID, dist = Dist.CLIENT)
+@Mod(value = ArsManaHud.MODID, dist = Dist.CLIENT)
 @EventBusSubscriber
-public class ArsNumericHUD
+public class ArsManaHud
 {
-    public static final String MODID = "arsnumerichud";
+    public static final String MODID = "arsmanahud";
      /// Credits to Moonwolf287 for original implementation
      /// [...](https://github.com/Moonwolf287/ArsEnderStorage/blob/1.16.5/src/main/java/io/github/moonwolf287/ars_enderstorage/ManaTextGUI.java)
      /// Original implementation in 1.16.5

@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.wfphantom.arsnumerichud.mixin",
+  "package": "io.github.agwstin.arsmanahud.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": ["GlyphCostMixin"],
   "injectors": {
