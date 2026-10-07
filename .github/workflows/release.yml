@@ -46,3 +46,4 @@ jobs:
           java: 21
           dependencies: |
             ars-nouveau(required)
+            ars-numerichud(incompatible)
